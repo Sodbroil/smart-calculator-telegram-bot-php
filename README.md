@@ -1,5 +1,7 @@
 # Умный калькулятор у бота Telegram
 
+[Демо](https://t.me/SodbroilSmartCalculatorBot)
+
 1. Чтобы использовать данного бота, вам нужно установить неофициальную библиотеку для работы с Telegram: [telegram-bot-sdk](https://github.com/irazasyed/telegram-bot-sdk).
 
 2. Для установки через composer используйте команду: 
