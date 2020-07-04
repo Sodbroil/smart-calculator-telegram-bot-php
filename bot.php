@@ -6,7 +6,7 @@ use Telegram\Bot\Api;
 use Telegram\Bot\Keyboard\Keyboard;
 
 
-$telegram = new Api('1095827980:AAG9PJoIqoIbTOH0BWfYyXcvzgIvWCctYDc');
+$telegram = new Api('Token');
 $result = $telegram->getWebhookUpdates();
 $result = json_decode($result, True);
 
