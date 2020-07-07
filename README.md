@@ -12,7 +12,7 @@ composer require irazasyed/telegram-bot-sdk
 ```
 $telegram = new Api('Token');
 ```
-4. После данной операции, вам не обходимо активать WebHooK. Ссылка для активации:
+4. После данной операции, вам необходимо активать WebHooK. Ссылка для активации:
 https://api.telegram.org/botТОКЕН/setWebHook?url=https://адрес_сайта/путь_к_файлу_бота
 ---
 
